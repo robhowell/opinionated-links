@@ -1,6 +1,6 @@
 # opinionated-links
 
-An opinionated collection of links.
+An opinionated collection of geek reference links, mostly about Front End Development, with a bit of Dev Ops and iOS mixed in too.
 
 ---
 
@@ -20,6 +20,13 @@ CSS
 
 ---
 
+Data Storage
+- Hosted data APIs
+  - [Firebase](https://www.firebase.com/)
+  - [Parse](https://www.parse.com/)
+
+---
+
 [Elm: A functional reactive language for interactive applications](http://elm-lang.org/)
 
 ---
@@ -33,11 +40,25 @@ JavaScript
   - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
 - [React](http://facebook.github.io/react/index.html)
   - [React Blog](http://facebook.github.io/react/blog/)
+  - [Awesome React](https://github.com/enaqx/awesome-react)
+  - [React Playground on JSFiddle](https://jsfiddle.net/reactjs/69z2wepo/)
   - [Parse and React, a Shared Chemistry](http://blog.parse.com/learn/parse-and-react-shared-chemistry/)
   - [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
   - [Reapp](http://reapp.io/)
 - Sweet.js
   - [Writing Your First Sweet.js Macro](http://jlongster.com/Writing-Your-First-Sweet.js-Macro)
+
+---
+
+Jobs
+- Interviews
+  - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+---
+
+Learning
+- [C Design Patterns](https://stackoverflow.com/questions/4112796/are-there-any-design-patterns-in-c/9125140#9125140)
+- [Hot Plate challenge](https://gist.github.com/coolaj86/6033171)
 
 ---
 
