@@ -46,6 +46,11 @@ Logging and Errors
 
 ---
 
+Style Guides & Patterns
+- [Pattern Lab](http://patternlab.io/)
+
+---
+
 Prototyping
 - [Origami - Design Prototyping](http://facebook.github.io/origami/)
 
