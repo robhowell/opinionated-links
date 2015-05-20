@@ -40,6 +40,11 @@ JavaScript
 
 ---
 
+Logging and Errors
+- [Rollbar - Full-stack error tracking for all apps in any language](https://rollbar.com/)
+
+---
+
 Prototyping
 - [Origami - Design Prototyping](http://facebook.github.io/origami/)
 
