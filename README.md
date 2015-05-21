@@ -164,6 +164,17 @@ Typography
   - [RightFont for Mac](http://rightfontapp.com/)
 
 
+Visual Regression Testing
+---
+
+- [Huxley](https://github.com/facebookarchive/huxley)
+- [PhantomJS](https://github.com/ariya/phantomjs)
+- [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
+  - [Ghost Driver](https://github.com/detro/ghostdriver)
+- [WebdriverCSS](https://github.com/webdriverio/webdrivercss)
+  - [WebdriverCSS Admin Panel](https://github.com/webdriverio/webdrivercss-adminpanel)
+  - [WebdriverIO](http://webdriver.io/)
+
 Wordpress
 ---
 
