@@ -9,8 +9,8 @@ Colours
 
 - [1x1 PNG Pixel Base64 generator](http://px64.net)
 - [CamanJS: Client-side image processing](https://github.com/meltingice/CamanJS/)
-- [ColorSchemer](http://www.colorschemer.com/schemes/viewscheme.php?id=6316)
   - [Manipulating Images on Web Pages with CamanJS](http://www.sitepoint.com/manipulating-images-web-pages-camanjs/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
+- [ColorSchemer](http://www.colorschemer.com/schemes/viewscheme.php?id=6316)
 
 
 CSS
