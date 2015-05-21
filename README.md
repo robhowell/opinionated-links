@@ -143,6 +143,12 @@ Prototyping
 - [Origami - Design Prototyping](http://facebook.github.io/origami/)
 
 
+RegEx
+---
+
+- [RegExr - Testing tool](http://regexr.com/)
+
+
 SSL
 ---
 
@@ -182,6 +188,7 @@ Visual Regression Testing
 - [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
   - [Ghost Driver](https://github.com/detro/ghostdriver)
 - [SelectorGadget](https://github.com/cantino/selectorgadget)
+- [Sikuli](http://www.sikuli.org/)
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss)
   - [WebdriverCSS Admin Panel](https://github.com/webdriverio/webdrivercss-adminpanel)
   - [WebdriverIO](http://webdriver.io/)
