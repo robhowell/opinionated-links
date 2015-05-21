@@ -69,6 +69,7 @@ Logging and Errors
 
 Markdown
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [Task lists in GitHub Flavored Markdown](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
 
 ---
 
