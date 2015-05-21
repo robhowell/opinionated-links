@@ -67,8 +67,8 @@ Logging and Errors
 
 ---
 
-Style Guides & Patterns
-- [Pattern Lab](http://patternlab.io/)
+Markdown
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
 ---
 
@@ -82,3 +82,10 @@ SVG
 - [Internet Explorer and Inkscape SVGs](https://triangle717.wordpress.com/2014/06/07/ie-inkscape-svg/)
 - [How can I make an svg scale with its parent container?](http://stackoverflow.com/questions/19484707/how-can-i-make-an-svg-scale-with-its-parent-container)
 - [Using React.js to draw dynamic SVGs](https://biesnecker.com/2014/10/22/using-reactjs-to-draw-dynamic-svgs/)
+
+---
+
+Style Guides & Patterns
+- [Pattern Lab](http://patternlab.io/)
+
+---
