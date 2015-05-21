@@ -27,6 +27,11 @@ Data Storage
 
 ---
 
+Documentation
+- [Autodoc - Documentation with Integrated Testing](https://github.com/dtao/autodoc)
+
+---
+
 [Elm: A functional reactive language for interactive applications](http://elm-lang.org/)
 
 ---
@@ -88,5 +93,3 @@ SVG
 
 Style Guides & Patterns
 - [Pattern Lab](http://patternlab.io/)
-
----
