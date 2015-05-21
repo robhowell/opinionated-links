@@ -99,6 +99,15 @@ Learning
 
 - [C Design Patterns](https://stackoverflow.com/questions/4112796/are-there-any-design-patterns-in-c/9125140#9125140)
 - [Hot Plate challenge](https://gist.github.com/coolaj86/6033171)
+- [repl.it: try programming languages online](http://repl.it/)
+
+
+Local Development
+---
+
+- Local Tunnelling
+  - [ngrok](https://ngrok.com/)
+  - [localtunnel](https://github.com/defunctzombie/localtunnel)
 
 
 Logging and Errors
