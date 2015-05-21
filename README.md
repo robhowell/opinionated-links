@@ -171,6 +171,7 @@ Visual Regression Testing
 - [PhantomJS](https://github.com/ariya/phantomjs)
 - [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
   - [Ghost Driver](https://github.com/detro/ghostdriver)
+- [SelectorGadget](https://github.com/cantino/selectorgadget)
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss)
   - [WebdriverCSS Admin Panel](https://github.com/webdriverio/webdrivercss-adminpanel)
   - [WebdriverIO](http://webdriver.io/)
