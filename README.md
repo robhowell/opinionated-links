@@ -79,8 +79,9 @@ JavaScript
 - ES7
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
-- Graphics
+- Games & Graphics
   - [pixi.js](https://github.com/GoodBoyDigital/pixi.js)
+  - [Impact.js](http://impactjs.com/)
 - Graphs & Diagrams
   - [10 JavaScript libraries to draw your own diagrams](http://modeling-languages.com/javascript-drawing-libraries-diagrams/)
 - Networking
