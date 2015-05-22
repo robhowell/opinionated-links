@@ -149,6 +149,8 @@ Nginx
 Prototyping 
 ---
 
+- [Framer.js](https://github.com/koenbok/Framer)
+  - [Framer app](http://framerjs.com/)
 - [Origami - Design Prototyping](http://facebook.github.io/origami/)
 
 
