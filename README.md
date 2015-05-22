@@ -79,6 +79,12 @@ JavaScript
 - ES7
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+- Graphs & Diagrams
+  - [10 JavaScript libraries to draw your own diagrams](http://modeling-languages.com/javascript-drawing-libraries-diagrams/)
+- Networking
+  - [rest.js](https://github.com/cujojs/rest)
+  - [restful.js](https://github.com/marmelab/restful.js)
+    - [Tutorial: Using rest.js with React](http://marmelab.com/blog/2015/03/10/deal-easily-with-your-rest-api-using-restful-js.html)
 - [React](http://facebook.github.io/react/index.html)
   - [React Blog](http://facebook.github.io/react/blog/)
   - [Awesome React](https://github.com/enaqx/awesome-react)
