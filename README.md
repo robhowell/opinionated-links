@@ -5,6 +5,14 @@ An opinionated collection of geek reference links, mostly about Front End Develo
 ---
 
 
+APIs
+---
+- API Examples
+  - [Stripe](https://stripe.com/docs/api)
+- Tools
+  - [Lucybot Request API: Generate code for HTTP requests in multiple languages](https://www.lucybot.com/docs/request)
+
+
 AWS
 ---
 
@@ -15,6 +23,7 @@ AWS
   - [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
   - [AWS Lambda Will Help Create a New Normal](http://thenewstack.io/aws-lambda-is-a-step-towards-creating-a-new-normal/)
   - [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
+
 
 Colours
 ---
@@ -92,6 +101,8 @@ iOS
 JavaScript
 ---
 
+- Backbone
+  - [Composition - not inheritance - in Backbone](http://danhough.com/blog/backbone-composition/)
 - Data
   - [Pouch.db](http://pouchdb.com/)
 - ES6 & ES7
@@ -177,10 +188,14 @@ Node.js
 ---
 
 - Data
+  - [Relations with Bookshelf.js](http://thinkingonthinking.com/relations-with-bookshelfjs/)
   - [Using Node.js with MySQL](http://blog.ragingflame.co.za/2014/7/21/using-nodejs-with-mysql)
 - Async & Parallelism
   - [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
   - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+- Screen Scraping
+  - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
+  
 
 Prototyping 
 ---
@@ -203,6 +218,7 @@ SSL
 - [Configuring Nginx and SSL with Node.js](http://www.sitepoint.com/configuring-nginx-ssl-node-js/)
 - [How To Install an SSL Certificate from a Commercial Certificate Authority](https://www.digitalocean.com/community/tutorials/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority)
 - [How To Create a SSL Certificate on nginx for Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-ubuntu-12-04)
+- [SSL Root CAs: Custom Certificates in Node](https://github.com/coolaj86/node-ssl-root-cas)
 
 
 SVG
@@ -253,12 +269,16 @@ Visual Regression Testing
   - [CSS Regression Testing with Resemble.js](https://www.lullabot.com/blog/article/css-regression-testing-resemblejs)
 - [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
   - [Ghost Driver](https://github.com/detro/ghostdriver)
+  - [Visual Testing With Selenium WebDriver (using Docker)](http://www.alexecollins.com/selenium-visual-testing/)
+  - [Running a Selenium Grid using Docker and Compose](http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/)
+  - [Selenium Grid Cluster Example With Docker and Fig](https://medium.com/@kevanahlquist/selenium-grid-cluster-example-with-docker-and-fig-24943a5eca42)
 - [SelectorGadget](https://github.com/cantino/selectorgadget)
 - [Sikuli](http://www.sikuli.org/)
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss)
   - [WebdriverCSS Admin Panel](https://github.com/webdriverio/webdrivercss-adminpanel)
   - [WebdriverIO](http://webdriver.io/)
 - [Wraith](https://github.com/BBC-News/wraith)
+
 
 Wordpress
 ---
