@@ -1,8 +1,20 @@
 # opinionated-links
 
-An opinionated collection of geek reference links, mostly about Front End Development, with a bit of Dev Ops and iOS mixed in too.
+An opinionated collection of geek reference links, mostly about Front End Development, with a bit of Node.js, Dev Ops and native iOS mixed in too.
 
 ---
+
+
+AWS
+---
+
+- Lambda
+  - [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs/)
+  - [Using Packages and Native nodejs Modules in AWS Lambda](https://aws.amazon.com/blogs/compute/nodejs-packages-in-lambda/)
+  - [Lambdaws](https://github.com/mentum/lambdaws)
+  - [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
+  - [AWS Lambda Will Help Create a New Normal](http://thenewstack.io/aws-lambda-is-a-step-towards-creating-a-new-normal/)
+  - [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 
 Colours
 ---
@@ -33,6 +45,11 @@ Data Storage
   - [Parse](https://www.parse.com/)
 
 
+Dev Ops
+---
+- [Actual Zero-Downtime with HAProxy](https://medium.com/@Drew_Stokes/actual-zero-downtime-with-haproxy-18318578fde6)
+
+
 [Docker](https://www.docker.com)
 ---
 
@@ -51,6 +68,7 @@ Data Storage
   - ["Deploy to Tutum" button](https://support.tutum.co/support/solutions/articles/5000620449)
   - [Easy Docker Deployments Using Tutum API](http://blog.tutum.co/2015/01/20/easy-docker-deployments-using-tutum-api/)
   - [Log Forwarding with Tutum](http://blog.tutum.co/2015/03/19/log-forwarding-with-tutum/)
+  - [How to Automate Docker Builds and Auto Deploy](https://www.brianchristner.io/how-to-automate-docker-builds-end-to-end/)
   - Stacks
     - [Why Stacks are HUGE for Devs Using Docker](http://blog.tutum.co/2015/03/31/why-stacks-are-huge-for-devs-using-docker/)
     - [Stack Dashboard](https://dashboard.tutum.co/stack/)
@@ -74,11 +92,16 @@ iOS
 JavaScript
 ---
 
-- ES6
-  - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
-- ES7
+- Data
+  - [Pouch.db](http://pouchdb.com/)
+- ES6 & ES7
   - Async Functions
-    - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+    - [Simplifying Asynchronous Coding with ES7 Async
+  - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
+   Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+  - Transpilers
+    - [Babel](http://babeljs.io/)
+      - [Why Babel Matters](http://codemix.com/blog/why-babel-matters)
 - Games & Graphics
   - [pixi.js](https://github.com/GoodBoyDigital/pixi.js)
   - [Impact.js](http://impactjs.com/)
@@ -95,6 +118,7 @@ JavaScript
   - [Parse and React, a Shared Chemistry](http://blog.parse.com/learn/parse-and-react-shared-chemistry/)
   - [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
   - [Reapp](http://reapp.io/)
+  - [JSX Looks Like An Abomination, but It's Good For You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
 - Sweet.js
   - [Writing Your First Sweet.js Macro](http://jlongster.com/Writing-Your-First-Sweet.js-Macro)
 
@@ -149,6 +173,15 @@ Nginx
 - [How To Set Up nginx Virtual Hosts (Server Blocks) on Ubuntu 12.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-virtual-hosts-server-blocks-on-ubuntu-12-04-lts--3)
 
 
+Node.js
+---
+
+- Data
+  - [Using Node.js with MySQL](http://blog.ragingflame.co.za/2014/7/21/using-nodejs-with-mysql)
+- Async & Parallelism
+  - [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
+  - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
 Prototyping 
 ---
 
@@ -197,8 +230,27 @@ Typography
 Visual Regression Testing
 ---
 
+- AngularJS
+  - [Visual Regression Testing For Angular Applications](http://davidwalsh.name/visual-regression-testing-angular-applications)
+- [BackstopJS](https://github.com/garris/BackstopJS)
+  - [Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/)
+  - [CSS Visual Regression Testing with Grunt-BackstopJS](https://joe-watkins.io/css-visual-regression-testing-with-grunt-backstopjs/)
+  - [Visual Regression Tools: BackstopJS](http://shashikantjagtap.net/visual-regression-tools-backstopjs/)
+- CI Integration
+  - [Visual regression testing in Travis CI](http://twolfson.com/2014-02-25-visual-regression-testing-in-travis-ci)
+- General Articles
+  - [How To Create Your Own Front-End Website Testing Plan](http://www.smashingmagazine.com/2014/11/24/how-to-create-your-own-front-end-website-testing-plan/)
+  - [Visual Regression](http://abhishek-tiwari.com/post/visual-regression)
+  - [Visual Regression Automation: Why, How and What?](http://www.rightmove.co.uk/dev/blog/visual-regression-automation/)
+- [Ghost Inspector](https://ghostinspector.com/)
 - [Huxley](https://github.com/facebookarchive/huxley)
 - [PhantomJS](https://github.com/ariya/phantomjs)
+  - [CasperJS](http://casperjs.org/)
+  - [CSS Testing with PhantomCSS, PhantomJS, CasperJS and Grunt](http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/)
+  - [Vigo](https://www.npmjs.com/package/grunt-vigo)
+  - [Visual Regression Testing](https://sonniesedge.co.uk/blog/visual-regression-testing/)
+- [Resemble.js](https://github.com/Huddle/Resemble.js)
+  - [CSS Regression Testing with Resemble.js](https://www.lullabot.com/blog/article/css-regression-testing-resemblejs)
 - [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
   - [Ghost Driver](https://github.com/detro/ghostdriver)
 - [SelectorGadget](https://github.com/cantino/selectorgadget)
@@ -206,6 +258,7 @@ Visual Regression Testing
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss)
   - [WebdriverCSS Admin Panel](https://github.com/webdriverio/webdrivercss-adminpanel)
   - [WebdriverIO](http://webdriver.io/)
+- [Wraith](https://github.com/BBC-News/wraith)
 
 Wordpress
 ---
