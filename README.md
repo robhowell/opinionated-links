@@ -191,6 +191,14 @@ Misc
 - [Quill: Rich Text Editor](https://github.com/quilljs/quill/)
 
 
+News & Podcasts
+---
+
+- [Hacker News](https://news.ycombinator.com/)
+- [Echo JS](http://www.echojs.com/)
+- [JavaScript Jabber](http://devchat.tv/js-jabber)
+
+
 Nginx
 ---
 
