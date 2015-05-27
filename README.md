@@ -128,9 +128,8 @@ JavaScript
   - [Pouch.db](http://pouchdb.com/)
 - ES6 & ES7
   - Async Functions
-    - [Simplifying Asynchronous Coding with ES7 Async
+    - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
   - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
-   Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
   - Transpilers
     - [Babel](http://babeljs.io/)
       - [Why Babel Matters](http://codemix.com/blog/why-babel-matters)
