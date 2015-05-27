@@ -94,6 +94,13 @@ Documentation
 - [Autodoc - Documentation with Integrated Testing](https://github.com/dtao/autodoc)
 
 
+HTML
+---
+
+- Image Maps
+  - [Maphilight](https://github.com/kemayo/maphilight)
+
+
 iOS
 ---
 
