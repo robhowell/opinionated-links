@@ -98,7 +98,7 @@ HTML
 ---
 
 - Image Maps
-  - [Maphilight](https://github.com/kemayo/maphilight)
+  - [Maphilight](https://github.com/kemayo/maphilight) (jQuery plugin that adds visual highlights to image maps)
 
 
 iOS
