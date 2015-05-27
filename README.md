@@ -99,6 +99,9 @@ HTML
 
 - Image Maps
   - [Maphilight](https://github.com/kemayo/maphilight) (jQuery plugin that adds visual highlights to image maps)
+    - [jQuery maphilight documentation](http://davidlynch.org/projects/maphilight/docs/)
+  - Responsive Image Maps
+    - [jQuery RWD Image Maps](https://github.com/stowball/jQuery-rwdImageMaps)
 
 
 iOS
@@ -262,6 +265,14 @@ Style Guides & Patterns
 ---
 
 - [Pattern Lab](http://patternlab.io/)
+
+
+Tools
+---
+
+- Placeholder Content
+  - [Placehold.it](http://placehold.it/) (Basic graphic placeholder images)
+  - [Lorempixel.com](http://lorempixel.com/) (Random placeholder photos)
 
 
 Typography
