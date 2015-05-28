@@ -132,10 +132,17 @@ JavaScript
 - ES6 & ES7
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+  - Reference
+    - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
+    - [Getting to know ES6: Enhanced parameters](http://codepen.io/bradleyboy/posts/getting-to-know-es6-enhanced-arguments)
+    - [Getting to know ES6: Arrow functions](http://codepen.io/bradleyboy/posts/getting-to-know-es6-arrow-functions)
+    - [Understanding ECMAScript 6 arrow functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
   - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
   - Transpilers
     - [Babel](http://babeljs.io/)
       - [Why Babel Matters](http://codemix.com/blog/why-babel-matters)
+- Frameworks & Libraries
+  - [JSBlocks](http://jsblocks.com/) (MV* framework, faster than React)
 - Games & Graphics
   - [pixi.js](https://github.com/GoodBoyDigital/pixi.js)
   - [Impact.js](http://impactjs.com/)
@@ -224,6 +231,8 @@ Node.js
 - Async & Parallelism
   - [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
   - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+- Reference
+  - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
 - Screen Scraping
   - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
   
