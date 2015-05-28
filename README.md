@@ -134,6 +134,7 @@ JavaScript
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
   - Reference
+    - [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
     - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
     - [Getting to know ES6: Enhanced parameters](http://codepen.io/bradleyboy/posts/getting-to-know-es6-enhanced-arguments)
     - [Getting to know ES6: Arrow functions](http://codepen.io/bradleyboy/posts/getting-to-know-es6-arrow-functions)
@@ -155,6 +156,10 @@ JavaScript
   - [rest.js](https://github.com/cujojs/rest)
   - [restful.js](https://github.com/marmelab/restful.js)
     - [Tutorial: Using rest.js with React](http://marmelab.com/blog/2015/03/10/deal-easily-with-your-rest-api-using-restful-js.html)
+- Package Management
+  - NPM
+  - Bower
+    - [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
 - [React](http://facebook.github.io/react/index.html)
   - [React Blog](http://facebook.github.io/react/blog/)
   - [Awesome React](https://github.com/enaqx/awesome-react)
@@ -163,6 +168,8 @@ JavaScript
   - [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
   - [Reapp](http://reapp.io/)
   - [JSX Looks Like An Abomination, but It's Good For You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
+- Sound
+  - [Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - Sweet.js
   - [Writing Your First Sweet.js Macro](http://jlongster.com/Writing-Your-First-Sweet.js-Macro)
 
@@ -236,6 +243,7 @@ Node.js
   - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 - Reference
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
+  - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
 - Screen Scraping
   - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
   
