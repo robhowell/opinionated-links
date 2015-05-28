@@ -240,6 +240,7 @@ RegEx
 ---
 
 - [RegExr - Testing tool](http://regexr.com/)
+- [ComposedRegex](http://www.martinfowler.com/bliki/ComposedRegex.html)
 
 
 SSL
