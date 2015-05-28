@@ -95,6 +95,12 @@ Documentation
 - [JSDoc](http://usejsdoc.org/)
   - [Minami](https://github.com/Nijikokun/minami) (A clean, responsive documentation template theme for JSDoc 3)
 
+
+Education
+---
+- [Hacker Shelf](http://hackershelf.com/) (Free books for geeks)
+
+
 HTML
 ---
 
@@ -211,6 +217,12 @@ Markdown
 
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [Task lists in GitHub Flavored Markdown](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
+
+
+Marketing
+---
+
+- [Submit.co](http://submit.co/) (Where to get press coverage for your startup)
 
 
 Misc
