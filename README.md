@@ -157,9 +157,10 @@ JavaScript
   - [restful.js](https://github.com/marmelab/restful.js)
     - [Tutorial: Using rest.js with React](http://marmelab.com/blog/2015/03/10/deal-easily-with-your-rest-api-using-restful-js.html)
 - Package Management
-  - NPM
   - Bower
     - [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
+  - JSPM  
+  - NPM
 - [React](http://facebook.github.io/react/index.html)
   - [React Blog](http://facebook.github.io/react/blog/)
   - [Awesome React](https://github.com/enaqx/awesome-react)
