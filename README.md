@@ -34,6 +34,13 @@ Colours
 - [ColorSchemer](http://www.colorschemer.com/schemes/viewscheme.php?id=6316)
 
 
+Component Frameworks
+---
+
+- Bootstrap
+  - [Bootstrap Popover Move](https://github.com/ghophp/bootstrap-popover-move)
+
+
 CSS
 ---
 
