@@ -92,7 +92,8 @@ Documentation
 ---
 
 - [Autodoc - Documentation with Integrated Testing](https://github.com/dtao/autodoc)
-
+- [JSDoc](http://usejsdoc.org/)
+  - [Minami](https://github.com/Nijikokun/minami) (A clean, responsive documentation template theme for JSDoc 3)
 
 HTML
 ---
@@ -137,6 +138,8 @@ JavaScript
     - [Getting to know ES6: Enhanced parameters](http://codepen.io/bradleyboy/posts/getting-to-know-es6-enhanced-arguments)
     - [Getting to know ES6: Arrow functions](http://codepen.io/bradleyboy/posts/getting-to-know-es6-arrow-functions)
     - [Understanding ECMAScript 6 arrow functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
+    - [Destructuring and Recursion in ES-6](http://raganwald.com/2015/02/02/destructuring.html)
+    - [Tail Calls, Optimization, and ES6](http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/)
   - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
   - Transpilers
     - [Babel](http://babeljs.io/)
