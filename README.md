@@ -169,6 +169,8 @@ JavaScript
   - [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
   - [Reapp](http://reapp.io/)
   - [JSX Looks Like An Abomination, but It's Good For You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
+  - Relay & GraphQL
+    - [Mutations in Relay](https://speakerdeck.com/laneyk/mutations-in-relay)
 - Sound
   - [Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - Sweet.js
@@ -216,6 +218,12 @@ Misc
 
 - [Elm: A functional reactive language for interactive applications](http://elm-lang.org/)
 - [Quill: Rich Text Editor](https://github.com/quilljs/quill/)
+
+
+Mobile
+---
+
+- [Mobile App Framework Matrix](http://matthiasschuetz.com/mobile-app-framework-matrix/)
 
 
 News & Podcasts
