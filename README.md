@@ -267,12 +267,12 @@ Nginx
 Node.js
 ---
 
-- Data
-  - [Relations with Bookshelf.js](http://thinkingonthinking.com/relations-with-bookshelfjs/)
-  - [Using Node.js with MySQL](http://blog.ragingflame.co.za/2014/7/21/using-nodejs-with-mysql)
 - Async & Parallelism
   - [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
   - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+- Data
+  - [Relations with Bookshelf.js](http://thinkingonthinking.com/relations-with-bookshelfjs/)
+  - [Using Node.js with MySQL](http://blog.ragingflame.co.za/2014/7/21/using-nodejs-with-mysql)
 - Reference
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
   - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
