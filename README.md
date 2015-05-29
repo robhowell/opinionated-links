@@ -38,7 +38,9 @@ Component Frameworks
 ---
 
 - Bootstrap
-  - [Bootstrap Popover Move](https://github.com/ghophp/bootstrap-popover-move)
+  - Popover
+    - [Bootstrap Popover Move](https://github.com/ghophp/bootstrap-popover-move)
+    - [HTML inside Twitter Bootstrap popover](http://stackoverflow.com/questions/13202762/html-inside-twitter-bootstrap-popover)
 
 
 CSS
