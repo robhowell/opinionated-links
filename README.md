@@ -152,6 +152,7 @@ JavaScript
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
   - Reference
     - [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
+    - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
     - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
     - [Getting to know ES6: Enhanced parameters](http://codepen.io/bradleyboy/posts/getting-to-know-es6-enhanced-arguments)
     - [Getting to know ES6: Arrow functions](http://codepen.io/bradleyboy/posts/getting-to-know-es6-arrow-functions)
