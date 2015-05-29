@@ -129,6 +129,8 @@ iOS
 JavaScript
 ---
 
+- About JavaScript
+  - [Why JavaScript Is The Next (or first) Programming Language You Should Learn](http://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/)
 - Backbone
   - [Composition - not inheritance - in Backbone](http://danhough.com/blog/backbone-composition/)
 - Build Tools
@@ -272,6 +274,7 @@ Node.js
 - Reference
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
   - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
+  - [Migrating from PHP to Node.js](https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a)
 - Screen Scraping
   - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
   
