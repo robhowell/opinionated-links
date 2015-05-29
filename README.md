@@ -172,7 +172,7 @@ JavaScript
 - Networking
   - [rest.js](https://github.com/cujojs/rest)
   - [restful.js](https://github.com/marmelab/restful.js)
-    - [Tutorial: Using rest.js with React](http://marmelab.com/blog/2015/03/10/deal-easily-with-your-rest-api-using-restful-js.html)
+    - [Tutorial: Using restful.js with React](http://marmelab.com/blog/2015/03/10/deal-easily-with-your-rest-api-using-restful-js.html)
 - Package Management
   - Bower
     - [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
