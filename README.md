@@ -189,6 +189,7 @@ JavaScript
   - [JSX Looks Like An Abomination, but It's Good For You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
   - Relay & GraphQL
     - [Mutations in Relay](https://speakerdeck.com/laneyk/mutations-in-relay)
+    - [React Parts](https://react.parts/) (React & React Native components)
 - Sound
   - [Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - Sweet.js
