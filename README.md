@@ -49,6 +49,7 @@ CSS
 - Flexbox
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [How To Get Started With CSS Flexbox](http://www.paulund.co.uk/css-flexbox)
+  - [Migrating to Flexbox by Cutting the Mustard](http://www.sitepoint.com/migrating-flexbox-cutting-mustard/)
 - Misc
   - [How to maintain aspect ratio in CSS](http://stackoverflow.com/questions/1495407/css-maintain-div-aspect-ratio)
   - [CSS3-based breadcrumb navigation with rounded arrow dividers](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
