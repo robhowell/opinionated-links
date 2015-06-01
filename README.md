@@ -146,6 +146,8 @@ JavaScript
       - [cssnext-loader](https://github.com/cssnext/cssnext-loader)
     - [Using ES6 Modules with Webpack](http://www.zsoltnagy.eu/using-es6-modules-with-webpack/)
     - [Webpack, ES6, cssnext yeoman generator](http://ilkka.io/blog/generator-webpack-es6-cssnext/)
+  - [Methods Within Constructor vs Prototype in Javascript](http://thecodeship.com/web-development/methods-within-constructor-vs-prototype-in-javascript/)
+  - [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
 - Data
   - [Pouch.db](http://pouchdb.com/)
 - ES6 & ES7
