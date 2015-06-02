@@ -154,6 +154,7 @@ JavaScript
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
   - Reference
+    - [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
     - [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
     - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
     - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
@@ -183,6 +184,8 @@ JavaScript
   - JSPM  
   - NPM
 - [React](http://facebook.github.io/react/index.html)
+  - React Native
+    - [CSS-Layout and React-Art](http://browniefed.com/blog/2015/06/01/css-layout-and-react-art/)
   - [React Blog](http://facebook.github.io/react/blog/)
   - [Awesome React](https://github.com/enaqx/awesome-react)
   - [React Playground on JSFiddle](https://jsfiddle.net/reactjs/69z2wepo/)
@@ -352,6 +355,9 @@ Visual Regression Testing
   - [Visual Regression Tools: BackstopJS](http://shashikantjagtap.net/visual-regression-tools-backstopjs/)
 - CI Integration
   - [Visual regression testing in Travis CI](http://twolfson.com/2014-02-25-visual-regression-testing-in-travis-ci)
+- Commercial Solutions
+  - [diff.io](https://diff.io/) (Difference as a Service)
+  - [URL2PNG](https://www.url2png.com/) (Screenshots as a Service)
 - General Articles
   - [How To Create Your Own Front-End Website Testing Plan](http://www.smashingmagazine.com/2014/11/24/how-to-create-your-own-front-end-website-testing-plan/)
   - [Visual Regression](http://abhishek-tiwari.com/post/visual-regression)
