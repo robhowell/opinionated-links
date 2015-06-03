@@ -70,7 +70,10 @@ Data Storage
 
 Dev Ops
 ---
+
 - [Actual Zero-Downtime with HAProxy](https://medium.com/@Drew_Stokes/actual-zero-downtime-with-haproxy-18318578fde6)
+- Vagrant
+  - [Vagrant Parallels Provider](http://parallels.github.io/vagrant-parallels/)
 
 
 [Docker](https://www.docker.com)
