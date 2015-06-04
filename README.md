@@ -71,6 +71,8 @@ Data Storage
 Dev Ops
 ---
 
+Continuous Integration
+- [Travis CI](https://travis-ci.org/)
 - [Actual Zero-Downtime with HAProxy](https://medium.com/@Drew_Stokes/actual-zero-downtime-with-haproxy-18318578fde6)
 - Vagrant
   - [Vagrant Parallels Provider](http://parallels.github.io/vagrant-parallels/)
@@ -337,6 +339,20 @@ Style Guides & Patterns
 - [Pattern Lab](http://patternlab.io/)
 
 
+Testing
+---
+
+- Continuous Integration
+  - [Testing AngularJS with Jasmine, Karma, Protractor, Yeoman, Bower, Grunt & Travis CI](http://futurefun.tumblr.com/post/89734448371/testing-angularjs-with-jasmine-karma-protractor)
+- Test Libraries
+ - [Protractor](https://github.com/angular/protractor)
+  - [Protractor - Testing Angular and Non Angular Sites](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
+ - [Jasmine vs. Mocha, Chai, and Sinon](http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html)
+- Test Runners
+  - [Intern](https://theintern.github.io/)
+  - [Karma](https://karma-runner.github.io)
+
+
 Tools
 ---
 
@@ -364,19 +380,26 @@ Visual Regression Testing
 - CI Integration
   - [Visual regression testing in Travis CI](http://twolfson.com/2014-02-25-visual-regression-testing-in-travis-ci)
 - Commercial Solutions
+  - [Ghost Inspector](https://ghostinspector.com/)
   - [diff.io](https://diff.io/) (Difference as a Service)
   - [URL2PNG](https://www.url2png.com/) (Screenshots as a Service)
+  - [BrowserStack]
+   - [Distributed Automated Browser Testing with Selenium and BrowserStack](http://www.hanselman.com/blog/DistributedAutomatedBrowserTestingWithSeleniumAndBrowserStack.aspx)
 - General Articles
   - [How To Create Your Own Front-End Website Testing Plan](http://www.smashingmagazine.com/2014/11/24/how-to-create-your-own-front-end-website-testing-plan/)
   - [Visual Regression](http://abhishek-tiwari.com/post/visual-regression)
   - [Visual Regression Automation: Why, How and What?](http://www.rightmove.co.uk/dev/blog/visual-regression-automation/)
 - [Ghost Inspector](https://ghostinspector.com/)
-- [Huxley](https://github.com/facebookarchive/huxley)
+- [Huxley](https://github.com/facebookarchive/huxley) (main project abandoned but node-huxley is active)
+  - [node-huxley](https://github.com/chenglou/node-huxley)
+- [NightwatchJS](http://nightwatchjs.org/)
 - [PhantomJS](https://github.com/ariya/phantomjs)
   - [CasperJS](http://casperjs.org/)
   - [CSS Testing with PhantomCSS, PhantomJS, CasperJS and Grunt](http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/)
   - [Vigo](https://www.npmjs.com/package/grunt-vigo)
   - [Visual Regression Testing](https://sonniesedge.co.uk/blog/visual-regression-testing/)
+  - [PhantomJS Has Many Uses, But Functional Testing Isn't One of Them](https://www.exratione.com/2015/02/phantomjs-has-many-uses-but-function-testing-isnt-one-of-them/)
+  - [Network Monitoring with PhantomJS](http://phantomjs.org/network-monitoring.html)
 - [Resemble.js](https://github.com/Huddle/Resemble.js)
   - [CSS Regression Testing with Resemble.js](https://www.lullabot.com/blog/article/css-regression-testing-resemblejs)
 - [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
@@ -388,7 +411,8 @@ Visual Regression Testing
 - [Sikuli](http://www.sikuli.org/)
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss)
   - [WebdriverCSS Admin Panel](https://github.com/webdriverio/webdrivercss-adminpanel)
-  - [WebdriverIO](http://webdriver.io/)
+- [WebdriverIO](http://webdriver.io/)
+ - [Selenium testing workflow with WebdriverIO](http://twin.github.io/selenium-testing-workflow-with-webdriverio/)
 - [Wraith](https://github.com/BBC-News/wraith)
 
 
