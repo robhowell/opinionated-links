@@ -60,6 +60,13 @@ CSS
   - [Myth](http://www.myth.io/)
 
 
+Data Science
+---
+
+- Charts
+  - [Charted](http://www.charted.co/) (Dynamically generates charts from link pointing to CSV or Google Sheet)
+
+
 Data Storage
 ---
 
