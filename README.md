@@ -371,6 +371,8 @@ Tools
 Typography
 ---
 
+- Fonts
+  - [Top Open-Source Fonts on GitHub](https://github.com/showcases/fonts)
 - Tools
   - [RightFont for Mac](http://rightfontapp.com/)
 
