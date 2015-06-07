@@ -34,6 +34,11 @@ Colours
 - [ColorSchemer](http://www.colorschemer.com/schemes/viewscheme.php?id=6316)
 
 
+Coding Challenges / Ranking Websites
+---
+
+- [HackerRank](https://www.hackerrank.com/)
+
 Component Frameworks
 ---
 
