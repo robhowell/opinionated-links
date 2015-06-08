@@ -67,7 +67,8 @@ Data Science
 
 - Charts
   - [Charted](http://www.charted.co/) (Dynamically generates charts from link pointing to CSV or Google Sheet)
-
+- Learning
+  - [3 great Data Science books you can read now for free](http://101.datascience.community/2014/10/23/3-great-data-science-books-you-can-read-now-for-free/)
 
 Data Storage
 ---
@@ -83,6 +84,8 @@ Dev Ops
 Continuous Integration
 - [Travis CI](https://travis-ci.org/)
 - [Actual Zero-Downtime with HAProxy](https://medium.com/@Drew_Stokes/actual-zero-downtime-with-haproxy-18318578fde6)
+- Logging
+  - [How to Write a Better Scribe](https://blogs.dropbox.com/tech/2015/05/how-to-write-a-better-scribe/)
 - Vagrant
   - [Vagrant Parallels Provider](http://parallels.github.io/vagrant-parallels/)
 
@@ -122,7 +125,10 @@ Documentation
 
 Education
 ---
+
+- [Cloudera](http://www.cloudera.com/)
 - [Hacker Shelf](http://hackershelf.com/) (Free books for geeks)
+- [Udacity](http://www.udacity.com/)
 
 
 HTML
@@ -148,6 +154,7 @@ JavaScript
 
 - About JavaScript
   - [Why JavaScript Is The Next (or first) Programming Language You Should Learn](http://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/)
+  - [7 Essential JavaScript Functions](http://davidwalsh.name/essential-javascript-functions)
 - Backbone
   - [Composition - not inheritance - in Backbone](http://danhough.com/blog/backbone-composition/)
 - Build Tools
@@ -162,12 +169,18 @@ JavaScript
     - [Webpack, ES6, cssnext yeoman generator](http://ilkka.io/blog/generator-webpack-es6-cssnext/)
   - [Methods Within Constructor vs Prototype in Javascript](http://thecodeship.com/web-development/methods-within-constructor-vs-prototype-in-javascript/)
   - [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
+- Code Coverage
+  - [BlanketJS](http://blanketjs.org/)
+  - [Isparta](https://github.com/douglasduteil/isparta) (Code coverage tool for ES6 using Babel)
 - Data
   - [Pouch.db](http://pouchdb.com/)
 - ES6 & ES7
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+  - Modules
+    - [Getting ES6 modules working thanks to Browserify, Babel, and Gulp](http://advantcomp.com/blog/ES6Modules/)
   - Reference
+    - [Easing the Transition to ES6 - Dev vs Production](http://www.ifwe.co/code/posts/easing-the-transition-to-es6/)
     - [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
     - [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
     - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
@@ -301,6 +314,7 @@ Node.js
   - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
   - [Express to Hapi.js](http://matt-harrison.com/moving-from-express-to-hapi-js/)
 - Reference
+  - [10 Habits of a Happy Node Hacker](https://blog.heroku.com/archives/2014/3/11/node-habits)
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
   - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
   - [Migrating from PHP to Node.js](https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a)
@@ -370,10 +384,18 @@ Testing
 - Continuous Integration
   - [Testing AngularJS with Jasmine, Karma, Protractor, Yeoman, Bower, Grunt & Travis CI](http://futurefun.tumblr.com/post/89734448371/testing-angularjs-with-jasmine-karma-protractor)
 - Test Libraries
- - [Protractor](https://github.com/angular/protractor)
-  - [Protractor - Testing Angular and Non Angular Sites](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
-  - [Protractor for AngularJS slideshow](http://ramonvictor.github.io/protractor/slides/#/)
- - [Jasmine vs. Mocha, Chai, and Sinon](http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html)
+  - [Mocha](http://mochajs.org/)
+    - [Testing React Web Apps with Mocha: Part 1](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
+    - [Testing React Web Apps with Mocha: Part 2](http://www.hammerlab.org/2015/02/21/testing-react-web-apps-with-mocha-part-2/)
+    - [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](http://webapplog.com/tdd/)
+    - [Headless Functional Testing with Selenium and PhantomJS](http://code.tutsplus.com/tutorials/headless-functional-testing-with-selenium-and-phantomjs--net-30545) (Using Mocha and Chai)
+  - [Protractor](https://github.com/angular/protractor)
+    - [Protractor - Testing Angular and Non Angular Sites](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
+    - [Protractor for AngularJS slideshow](http://ramonvictor.github.io/protractor/slides/#/)
+  - [Jasmine vs. Mocha, Chai, and Sinon](http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html)
+- Reference
+  - [Test Anything Protocol](http://en.wikipedia.org/wiki/Test_Anything_Protocol)
+    - [Test Anything Protocol tools for node](https://github.com/isaacs/node-tap)
 - Test Runners
   - [Intern](https://theintern.github.io/)
   - [Karma](https://karma-runner.github.io)
