@@ -34,11 +34,6 @@ Colours
 - [ColorSchemer](http://www.colorschemer.com/schemes/viewscheme.php?id=6316)
 
 
-Coding Challenges / Ranking Websites
----
-
-- [HackerRank](https://www.hackerrank.com/)
-
 Component Frameworks
 ---
 
@@ -309,7 +304,18 @@ Node.js
 Podcasts
 ---
 
+- [JavaScript Jabber](http://devchat.tv/js-jabber)
 - [Partially Derivative](http://www.partiallyderivative.com/) (Data science)
+
+
+Programming Challenges / Ranking Websites
+---
+
+- [CodeChef](http://www.codechef.com/)
+- [Codility](http://www.codility.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Topcoder](http://www.topcoder.com/)
+
 
 Prototyping 
 ---
