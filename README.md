@@ -372,6 +372,7 @@ Testing
 - Test Libraries
  - [Protractor](https://github.com/angular/protractor)
   - [Protractor - Testing Angular and Non Angular Sites](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
+  - [Protractor for AngularJS slideshow](http://ramonvictor.github.io/protractor/slides/#/)
  - [Jasmine vs. Mocha, Chai, and Sinon](http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html)
 - Test Runners
   - [Intern](https://theintern.github.io/)
