@@ -11,6 +11,8 @@ APIs
   - [Stripe](https://stripe.com/docs/api)
 - Tools
   - [Lucybot Request API: Generate code for HTTP requests in multiple languages](https://www.lucybot.com/docs/request)
+- Ideas
+  - [Name mutative functions present tense and non-mutative functions past tense](http://ariya.ofilabs.com/2014/02/javascript-array-slice-vs-splice.html)
 
 
 AWS
@@ -175,12 +177,14 @@ JavaScript
     - [Understanding ECMAScript 6 arrow functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
     - [Destructuring and Recursion in ES-6](http://raganwald.com/2015/02/02/destructuring.html)
     - [Tail Calls, Optimization, and ES6](http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/)
+    - [ECMAScript 6 and Rest Parameters](http://ariya.ofilabs.com/2013/03/es6-and-rest-parameter.html)
   - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
   - Transpilers
     - [Babel](http://babeljs.io/)
       - [Why Babel Matters](http://codemix.com/blog/why-babel-matters)
 - Frameworks & Libraries
-  - [JSBlocks](http://jsblocks.com/) (MV* framework, faster than React)
+  - [Aurelia](http://aurelia.io/)
+  - [JSBlocks](http://jsblocks.com/) (MV* framework, supposedly faster than React)
 - Games & Graphics
   - [pixi.js](https://github.com/GoodBoyDigital/pixi.js)
   - [Impact.js](http://impactjs.com/)
@@ -293,6 +297,9 @@ Node.js
 - Data
   - [Relations with Bookshelf.js](http://thinkingonthinking.com/relations-with-bookshelfjs/)
   - [Using Node.js with MySQL](http://blog.ragingflame.co.za/2014/7/21/using-nodejs-with-mysql)
+- Hapi.js
+  - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
+  - [Express to Hapi.js](http://matt-harrison.com/moving-from-express-to-hapi-js/)
 - Reference
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
   - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
