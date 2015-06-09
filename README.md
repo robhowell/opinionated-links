@@ -346,6 +346,12 @@ Prototyping
 - [Origami - Design Prototyping](http://facebook.github.io/origami/)
 
 
+Python
+---
+
+- [NumPy](http://en.wikipedia.org/wiki/NumPy)
+
+
 RegEx
 ---
 
