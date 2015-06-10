@@ -78,6 +78,12 @@ Data Storage
   - [Parse](https://www.parse.com/)
 
 
+Data Structures & Algorithms
+---
+
+- [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
+
+
 Dev Ops
 ---
 
@@ -195,6 +201,7 @@ JavaScript
   - Transpilers
     - [Babel](http://babeljs.io/)
       - [Why Babel Matters](http://codemix.com/blog/why-babel-matters)
+  - [ES7 Array and Generator comprehensions](http://dibaiee.ir/es7-array-generator-comprehensions/#laziness)
 - Frameworks & Libraries
   - [Aurelia](http://aurelia.io/)
   - [JSBlocks](http://jsblocks.com/) (MV* framework, supposedly faster than React)
@@ -227,6 +234,10 @@ JavaScript
   - Relay & GraphQL
     - [Mutations in Relay](https://speakerdeck.com/laneyk/mutations-in-relay)
     - [React Parts](https://react.parts/) (React & React Native components)
+- Functional JavaScript
+  - [JavaScript With Dragons: Learning filter() Method In Depth](https://medium.com/@p0zart/javascript-with-dragons-filter-method-in-depth-420a4e45346a)
+  - [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
+  - [.map, .reduce & .filter, Oh My!](http://www.datchley.name/working-with-collections/)
 - Sound
   - [Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - Sweet.js
@@ -324,6 +335,11 @@ Node.js
   - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
   
 
+PDF Rendering
+---
+
+- [pdfmake](http://pdfmake.org/) (Client/server side PDF printing in pure JavaScript)
+
 Podcasts
 ---
 
@@ -359,6 +375,14 @@ RegEx
 
 - [RegExr - Testing tool](http://regexr.com/)
 - [ComposedRegex](http://www.martinfowler.com/bliki/ComposedRegex.html)
+
+
+Source Control
+---
+
+- Git
+  - GitHub
+    - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 
 SSL
