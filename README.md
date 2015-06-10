@@ -212,6 +212,8 @@ JavaScript
     - [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
   - JSPM  
   - NPM
+- Polyfills & Shims
+  - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
 - [React](http://facebook.github.io/react/index.html)
   - React Native
     - [CSS-Layout and React-Art](http://browniefed.com/blog/2015/06/01/css-layout-and-react-art/)
