@@ -56,6 +56,7 @@ CSS
   - [How to maintain aspect ratio in CSS](http://stackoverflow.com/questions/1495407/css-maintain-div-aspect-ratio)
   - [CSS3-based breadcrumb navigation with rounded arrow dividers](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
   - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+  - [CSS matches()](http://caniuse.com/#feat=matchesselector)
 - Transpilers
   - [postcss](https://github.com/postcss/postcss)
     - [cssnext](https://github.com/cssnext/cssnext)
