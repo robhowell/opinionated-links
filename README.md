@@ -9,10 +9,10 @@ APIs
 ---
 - API Examples
   - [Stripe](https://stripe.com/docs/api)
-- Tools
-  - [Lucybot Request API: Generate code for HTTP requests in multiple languages](https://www.lucybot.com/docs/request)
 - Ideas
   - [Name mutative functions present tense and non-mutative functions past tense](http://ariya.ofilabs.com/2014/02/javascript-array-slice-vs-splice.html)
+- Tools
+  - [Lucybot Request API: Generate code for HTTP requests in multiple languages](https://www.lucybot.com/docs/request)
 
 
 AWS
