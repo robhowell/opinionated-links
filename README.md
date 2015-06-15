@@ -220,6 +220,8 @@ JavaScript
     - [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
   - JSPM  
   - NPM
+- Isomorphic Apps
+  - [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 - Polyfills & Shims
   - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
 - [React](http://facebook.github.io/react/index.html)
@@ -383,6 +385,8 @@ Source Control
 
 - Git
   - GitHub
+    - Pull Requests
+      - [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
     - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 
