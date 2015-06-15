@@ -27,6 +27,10 @@ AWS
   - [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 
 
+Biotech
+- [Molecular Progrmaming Project](http://molecular-programming.org/)
+
+
 Colours
 ---
 
@@ -154,6 +158,7 @@ iOS
 - Apple Watch
   - [Apple Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/)
 - [The Ultimate Guide To iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [iOS UI Design Dos and Don'ts](https://developer.apple.com/design/tips/)
 
 
 JavaScript
@@ -184,6 +189,8 @@ JavaScript
 - ES6 & ES7
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+  - [Using ES6 with npm today](http://mammal.io/articles/using-es6-today/)
+  - [Mixins: Prototypes are Objects (and why that matters)](http://raganwald.com/2015/06/10/mixins.html)
   - Modules
     - [Getting ES6 modules working thanks to Browserify, Babel, and Gulp](http://advantcomp.com/blog/ES6Modules/)
   - Reference
@@ -211,6 +218,8 @@ JavaScript
   - [Impact.js](http://impactjs.com/)
 - Graphs & Diagrams
   - [10 JavaScript libraries to draw your own diagrams](http://modeling-languages.com/javascript-drawing-libraries-diagrams/)
+- Isomorphic Apps
+  - [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 - Networking
   - [rest.js](https://github.com/cujojs/rest)
   - [restful.js](https://github.com/marmelab/restful.js)
@@ -220,8 +229,6 @@ JavaScript
     - [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
   - JSPM  
   - NPM
-- Isomorphic Apps
-  - [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 - Polyfills & Shims
   - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
 - [React](http://facebook.github.io/react/index.html)
@@ -234,6 +241,9 @@ JavaScript
   - [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
   - [Reapp](http://reapp.io/)
   - [JSX Looks Like An Abomination, but It's Good For You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
+  - React Contexts
+    - [React Contexts and Dependency Injection](http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/)
+    - [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
   - Relay & GraphQL
     - [Mutations in Relay](https://speakerdeck.com/laneyk/mutations-in-relay)
     - [React Parts](https://react.parts/) (React & React Native components)
