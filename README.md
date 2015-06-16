@@ -213,6 +213,7 @@ JavaScript
 - Frameworks & Libraries
   - [Aurelia](http://aurelia.io/)
   - [JSBlocks](http://jsblocks.com/) (MV* framework, supposedly faster than React)
+  - [dhtmlxGantt](http://dhtmlx.com/docs/products/dhtmlxGantt/) (Web-based Gantt charts)
 - Games & Graphics
   - [pixi.js](https://github.com/GoodBoyDigital/pixi.js)
   - [Impact.js](http://impactjs.com/)
