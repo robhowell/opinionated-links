@@ -92,6 +92,8 @@ Data Structures & Algorithms
 Design
 ---
 
+- Fonts
+  - [Open Source fonts on GitHub](https://github.com/showcases/fonts)
 - [Iconifying Content](http://codersblock.com/blog/iconifying-content/)
   - [Iconifying Content Example](http://codepen.io/lonekorean/full/jPrpYK/)
 
@@ -247,8 +249,10 @@ JavaScript
   - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
   - [Awesomplete](https://leaverou.github.io/awesomplete/) (Cross-browser autocomplete)
 - [React](http://facebook.github.io/react/index.html)
+  - [react.rocks](http://react.rocks)
   - React Native
     - [CSS-Layout and React-Art](http://browniefed.com/blog/2015/06/01/css-layout-and-react-art/)
+    - [Is it possible to combine React Native with socket.io](http://stackoverflow.com/questions/29408492/is-it-possible-to-combine-react-native-with-socket-io)
   - [React Blog](http://facebook.github.io/react/blog/)
   - [Awesome React](https://github.com/enaqx/awesome-react)
   - [React Playground on JSFiddle](https://jsfiddle.net/reactjs/69z2wepo/)
@@ -256,14 +260,24 @@ JavaScript
   - [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
   - [Reapp](http://reapp.io/)
   - [JSX Looks Like An Abomination, but It's Good For You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
+  - [Isomorphic Apps Part 2: Node, React.js, and Socket.io](http://dejanglozic.com/2015/03/09/isomorphic-apps-part-2-node-react-js-and-socket-io/)
+  - [Node.js, Socket.io, and Redis: Intermediate Tutorial – React](http://ejosh.co/de/2015/02/node-js-socket-io-and-redis-intermediate-tutorial-react/)
+  - [Building an HTML5 game with React and socket.io](http://janekk.github.io/2015/03/12/building-html5-game-react-socketio.html)
+  - [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
   - React Contexts
     - [React Contexts and Dependency Injection](http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/)
     - [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
   - Relay & GraphQL
     - [Mutations in Relay](https://speakerdeck.com/laneyk/mutations-in-relay)
     - [React Parts](https://react.parts/) (React & React Native components)
+  - Flux
+    - [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
+    - [Isomorphic Apps done right with React Nexus](https://blog.rotenberg.io/isomorphic-apps-done-right-with-react-nexus/)
+    - [Flux over the Wire](https://blog.rotenberg.io/flux-over-the-wire-3/)
+    - [Million user webchat with Full Stack Flux, React, redis and PostgreSQL](https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/)
 - Functional JavaScript
   - [JavaScript With Dragons: Learning filter() Method In Depth](https://medium.com/@p0zart/javascript-with-dragons-filter-method-in-depth-420a4e45346a)
+  - [The Next Big Thing - Functional Programming](http://www.rajeevnb.com/2015/06/04/functional-programming/)
   - [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
   - [.map, .reduce & .filter, Oh My!](http://www.datchley.name/working-with-collections/)
 - Sound
@@ -311,6 +325,8 @@ Markdown
 Marketing
 ---
 
+- Email Marketing
+  - [How to create a curated email newsletter that drives results for your business](https://www.campaignmonitor.com/blog/post/4558/curated-email-newsletters)
 - [Submit.co](http://submit.co/) (Where to get press coverage for your startup)
 
 
@@ -367,6 +383,14 @@ PDF Rendering
 ---
 
 - [pdfmake](http://pdfmake.org/) (Client/server side PDF printing in pure JavaScript)
+
+
+PHP
+---
+
+- HHVM & Hack
+  - [Building a Better PHP — Part 1: HHVM and Hack](https://blog.engineyard.com/2014/hhvm-hack)
+
 
 Podcasts
 ---
