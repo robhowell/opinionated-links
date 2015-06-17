@@ -89,6 +89,13 @@ Data Structures & Algorithms
 - [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 
 
+Design
+---
+
+- [Iconifying Content](http://codersblock.com/blog/iconifying-content/)
+  - [Iconifying Content Example](http://codepen.io/lonekorean/full/jPrpYK/)
+
+
 Dev Ops
 ---
 
@@ -124,6 +131,9 @@ Continuous Integration
     - [Why Stacks are HUGE for Devs Using Docker](http://blog.tutum.co/2015/03/31/why-stacks-are-huge-for-devs-using-docker/)
     - [Stack Dashboard](https://dashboard.tutum.co/stack/)
     - [Stack Documentation](https://support.tutum.co/support/solutions/articles/5000569899)
+- Docker with Vagrant
+  [Easy and Reliable Docker Installation and Setup on Mac OSX](http://blog.ayanray.com/2015/05/easy-and-reliable-docker-installation-and-setup-on-mac-osx/)
+- [Continuous Integration and Delivery with Docker](http://blog.codeship.com/continuous-integration-and-delivery-with-docker/)
 
 
 Documentation
@@ -159,6 +169,9 @@ iOS
   - [Apple Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/)
 - [The Ultimate Guide To iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [iOS UI Design Dos and Don'ts](https://developer.apple.com/design/tips/)
+- Mobile Search
+  - [Set Up Your Website with iOS Deep Links](https://developers.google.com/app-indexing/ios/server)
+  - [Set Up Your iOS App for App Indexing](https://developers.google.com/app-indexing/ios/app)
 
 
 JavaScript
@@ -232,6 +245,7 @@ JavaScript
   - NPM
 - Polyfills & Shims
   - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
+  - [Awesomplete](https://leaverou.github.io/awesomplete/) (Cross-browser autocomplete)
 - [React](http://facebook.github.io/react/index.html)
   - React Native
     - [CSS-Layout and React-Art](http://browniefed.com/blog/2015/06/01/css-layout-and-react-art/)
@@ -376,6 +390,7 @@ Prototyping
 - [Framer.js](https://github.com/koenbok/Framer)
   - [Framer app](http://framerjs.com/)
 - [Origami - Design Prototyping](http://facebook.github.io/origami/)
+- [Rapidly Animate with Keynote](http://blog.uxtree.io/rapidly-animating-with-keynote/)
 
 
 Python
