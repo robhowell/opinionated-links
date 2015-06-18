@@ -222,6 +222,7 @@ JavaScript
     - [ECMAScript 6 and Rest Parameters](http://ariya.ofilabs.com/2013/03/es6-and-rest-parameter.html)
   - [Template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
   - Transpilers
+    - [ES6 In Depth: Using ES6 today with Babel and Broccoli](https://hacks.mozilla.org/2015/06/es6-in-depth-babel-and-broccoli/)
     - [Babel](http://babeljs.io/)
       - [Why Babel Matters](http://codemix.com/blog/why-babel-matters)
   - [ES7 Array and Generator comprehensions](http://dibaiee.ir/es7-array-generator-comprehensions/#laziness)
