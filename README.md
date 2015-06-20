@@ -28,7 +28,7 @@ AWS
 
 
 Biotech
-- [Molecular Progrmaming Project](http://molecular-programming.org/)
+- [Molecular Programming Project](http://molecular-programming.org/)
 
 
 Colours
