@@ -151,6 +151,7 @@ Education
 
 - [Cloudera](http://www.cloudera.com/)
 - [Hacker Shelf](http://hackershelf.com/) (Free books for geeks)
+- [Khan Academy](http://khanacademy.com)
 - [Udacity](http://www.udacity.com/)
 
 
