@@ -56,6 +56,10 @@ CSS
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [How To Get Started With CSS Flexbox](http://www.paulund.co.uk/css-flexbox)
   - [Migrating to Flexbox by Cutting the Mustard](http://www.sitepoint.com/migrating-flexbox-cutting-mustard/)
+- [Interoperable CSS (ICSS)](http://glenmaddern.com/articles/interoperable-css)
+  - [Interoperable CSS on GitHub](https://github.com/css-modules/icss)
+  - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
+  - [CSS Modules](https://github.com/css-modules/css-modules)
 - Misc
   - [How to maintain aspect ratio in CSS](http://stackoverflow.com/questions/1495407/css-maintain-div-aspect-ratio)
   - [CSS3-based breadcrumb navigation with rounded arrow dividers](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
