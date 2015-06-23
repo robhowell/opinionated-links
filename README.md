@@ -209,6 +209,7 @@ JavaScript
 - Data
   - [Pouch.db](http://pouchdb.com/)
 - ES6 & ES7
+  - [18 Resources on ES6 for JavaScript Developers](http://codecondo.com/learn-ecmascript-6-resources-javascript-devs/)
   - Async Functions
     - [Simplifying Asynchronous Coding with ES7 Async Functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
   - [Using ES6 with npm today](http://mammal.io/articles/using-es6-today/)
