@@ -117,6 +117,8 @@ Continuous Integration
 [Docker](https://www.docker.com)
 ---
 
+- Open Container Project
+  - [Docker, CoreOS, Google, Microsoft, Amazon And Others Come Together To Develop Common Container Standard](http://techcrunch.com/2015/06/22/docker-coreos-google-microsoft-amazon-and-others-agree-to-develop-common-container-standard/)
 - [Container Composability: a General Commentary and Brief Overview](http://blog.tutum.co/2015/03/10/container-composability-a-general-commentary-and-brief-overview/)
 - [Docker Compose](https://docs.docker.com/compose/)
   - [How to Use a Fig Environment to Develop Locally on OS X](http://blog.tutum.co/2015/01/07/how-to-use-a-fig-environment-to-develop-locally-on-os-x/)
