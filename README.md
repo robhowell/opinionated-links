@@ -377,6 +377,8 @@ Node.js
 - Data
   - [Relations with Bookshelf.js](http://thinkingonthinking.com/relations-with-bookshelfjs/)
   - [Using Node.js with MySQL](http://blog.ragingflame.co.za/2014/7/21/using-nodejs-with-mysql)
+- Email
+  - [Google API Node.js client](https://github.com/google/google-api-nodejs-client)
 - Hapi.js
   - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
   - [Express to Hapi.js](http://matt-harrison.com/moving-from-express-to-hapi-js/)
