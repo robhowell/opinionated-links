@@ -302,7 +302,7 @@ Jobs
 
 - Interviews
   - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-  - [A Guide to Front End Interviews](http://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
+  - [A Guide to the Front-End Interview Process](http://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
 
 
 Learning
