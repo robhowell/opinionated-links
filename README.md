@@ -65,6 +65,7 @@ CSS
   - [CSS3-based breadcrumb navigation with rounded arrow dividers](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
   - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
   - [CSS matches()](http://caniuse.com/#feat=matchesselector)
+  - [Web standard/Microsoft viewport settings - IE10 Snap Mode and Responsive Design](http://timkadlec.com/2012/10/ie10-snap-mode-and-responsive-design/)
 - Transpilers
   - [postcss](https://github.com/postcss/postcss)
     - [cssnext](https://github.com/cssnext/cssnext)
@@ -89,6 +90,7 @@ Data Storage
   - [Mongoose (MongoDB) GraphQL Server](https://github.com/RisingStack/graphql-server)
   - [How Facebook’s GraphQL Will Change Backend Development](https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/)
   - [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
+  - [React with GraphQL for Architecting Apps](http://thenewstack.io/react-with-graphql-for-architecting-apps/)
 - Hosted data APIs
   - [Firebase](https://www.firebase.com/)
   - [Parse](https://www.parse.com/)
