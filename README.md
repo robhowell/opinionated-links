@@ -462,7 +462,7 @@ Source Control
 ---
 
 - Git
-  - GitHub
+  - [GitHub](http://github.com)
     - Pull Requests
       - [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
     - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
