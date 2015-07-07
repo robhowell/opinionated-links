@@ -82,6 +82,13 @@ Data Science
 Data Storage
 ---
 
+- [GraphQL](https://github.com/facebook/graphql)
+  - [GraphQL Specification](http://facebook.github.io/graphql/)
+  - [GraphQL.js](https://github.com/graphql/graphql-js) (A reference implementation of GraphQL for JavaScript)
+    - [GraphQL.js on npm](https://www.npmjs.com/package/graphql)
+  - [Mongoose (MongoDB) GraphQL Server](https://github.com/RisingStack/graphql-server)
+  - [How Facebook’s GraphQL Will Change Backend Development](https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/)
+  - [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
 - Hosted data APIs
   - [Firebase](https://www.firebase.com/)
   - [Parse](https://www.parse.com/)
@@ -247,6 +254,8 @@ JavaScript
   - [10 JavaScript libraries to draw your own diagrams](http://modeling-languages.com/javascript-drawing-libraries-diagrams/)
 - Isomorphic Apps
   - [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
+- Modules
+  - [Small Modules: Tales from a Serial Module Author](http://dailyjs.com/2015/07/02/small-modules-complexity-over-size/)
 - Networking
   - [rest.js](https://github.com/cujojs/rest)
   - [restful.js](https://github.com/marmelab/restful.js)
@@ -304,6 +313,7 @@ Jobs
 - Interviews
   - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
   - [A Guide to the Front-End Interview Process](http://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
+  - [Node.js Interview Questions and Answers](http://blog.risingstack.com/node-js-interview-questions/)
 
 
 Learning
