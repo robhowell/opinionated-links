@@ -553,7 +553,7 @@ Visual Regression Testing
   - [Ghost Inspector](https://ghostinspector.com/)
   - [diff.io](https://diff.io/) (Difference as a Service)
   - [URL2PNG](https://www.url2png.com/) (Screenshots as a Service)
-  - [BrowserStack]
+  - [BrowserStack](http://browserstack.com)
    - [Distributed Automated Browser Testing with Selenium and BrowserStack](http://www.hanselman.com/blog/DistributedAutomatedBrowserTestingWithSeleniumAndBrowserStack.aspx)
 - General Articles
   - [How To Create Your Own Front-End Website Testing Plan](http://www.smashingmagazine.com/2014/11/24/how-to-create-your-own-front-end-website-testing-plan/)
