@@ -360,6 +360,7 @@ Misc
 
 - [Elm: A functional reactive language for interactive applications](http://elm-lang.org/)
 - [Quill: Rich Text Editor](https://github.com/quilljs/quill/)
+- [tel: protocol for Telephone Number links](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/PhoneLinks/PhoneLinks.html)
 
 
 Mobile
