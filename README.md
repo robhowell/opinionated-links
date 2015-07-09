@@ -72,13 +72,14 @@ CSS
   - [Myth](http://www.myth.io/)
 
 
-Data Science
+Data Analysis & Data Science
 ---
 
 - Charts
   - [Charted](http://www.charted.co/) (Dynamically generates charts from link pointing to CSV or Google Sheet)
 - Learning
   - [3 great Data Science books you can read now for free](http://101.datascience.community/2014/10/23/3-great-data-science-books-you-can-read-now-for-free/)
+- [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 
 Data Storage
 ---
