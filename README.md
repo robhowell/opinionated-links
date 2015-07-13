@@ -88,10 +88,12 @@ Data Storage
   - [GraphQL Specification](http://facebook.github.io/graphql/)
   - [GraphQL.js](https://github.com/graphql/graphql-js) (A reference implementation of GraphQL for JavaScript)
     - [GraphQL.js on npm](https://www.npmjs.com/package/graphql)
+  - [GraphQL Overview - Getting Started with GraphQL and Node.js](http://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
   - [Mongoose (MongoDB) GraphQL Server](https://github.com/RisingStack/graphql-server)
   - [How Facebook’s GraphQL Will Change Backend Development](https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/)
   - [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
   - [React with GraphQL for Architecting Apps](http://thenewstack.io/react-with-graphql-for-architecting-apps/)
+  - [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
 - Hosted data APIs
   - [Firebase](https://www.firebase.com/)
   - [Parse](https://www.parse.com/)
@@ -377,6 +379,9 @@ Misc
   - [A tale of two viewports — part two](http://www.quirksmode.org/mobile/viewports2.html)
 - Software Licenses
   - [Software License Selection Decision Tree](http://www.softwarelicense.io/)
+- Google's proposal for JavaScript "Strong Mode"
+  - [Experiments with Strengthening JavaScript](https://developers.google.com/v8/experiments)
+  - [Strong Mode Proposal](https://docs.google.com/document/d/1Qk0qC4s_XNCLemj42FqfsRLp49nDQMZ1y7fwf5YjaI4/view)
 
 Mobile
 ---
@@ -425,6 +430,8 @@ Node.js
     - [NPM loves Github](http://arunoda.me/blog/npm-loves-github.html)
 - Screen Scraping
   - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
+- Screenshots
+  - [node-webshot](https://github.com/brenden/node-webshot) (for taking screenshots with Node)
   
 
 PDF Rendering
