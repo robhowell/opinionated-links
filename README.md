@@ -368,7 +368,12 @@ Misc
 - [Elm: A functional reactive language for interactive applications](http://elm-lang.org/)
 - [Quill: Rich Text Editor](https://github.com/quilljs/quill/)
 - [tel: protocol for Telephone Number links](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/PhoneLinks/PhoneLinks.html)
-
+- Browser Viewports
+  - [Screen Resolution ≠ Browser Window](https://css-tricks.com/screen-resolution-notequalto-browser-window/)
+  - [A tale of two viewports — part one](http://www.quirksmode.org/mobile/viewports.html)
+  - [A tale of two viewports — part two](http://www.quirksmode.org/mobile/viewports2.html)
+- Software Licenses
+  - [Software License Selection Decision Tree](http://www.softwarelicense.io/)
 
 Mobile
 ---
