@@ -273,6 +273,9 @@ JavaScript
   - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
   - [Awesomplete](https://leaverou.github.io/awesomplete/) (Cross-browser autocomplete)
 - [React](http://facebook.github.io/react/index.html)
+  - React Styling
+    - [Radium](http://projects.formidablelabs.com/radium/)
+      - [Inline Styles are the Future](http://formidablelabs.com/blog/2015/03/01/launching-radium/)
   - [react.rocks](http://react.rocks)
   - React Native
     - [CSS-Layout and React-Art](http://browniefed.com/blog/2015/06/01/css-layout-and-react-art/)
@@ -416,6 +419,10 @@ Node.js
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
   - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
   - [Migrating from PHP to Node.js](https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a)
+  - Forking NPM modules
+    - [How to fork & patch npm modules](http://debuggable.com/posts/how-to-fork-patch-npm-modules:4e2eb9f3-e584-44be-b1a9-3db7cbdd56cb)
+    - [Fork and patch npm modules hosted on GitHub](https://coderwall.com/p/q_gh-w/fork-and-patch-npm-moduels-hosted-on-github)
+    - [NPM loves Github](http://arunoda.me/blog/npm-loves-github.html)
 - Screen Scraping
   - [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
   
@@ -514,11 +521,14 @@ Testing
 - Continuous Integration
   - [Testing AngularJS with Jasmine, Karma, Protractor, Yeoman, Bower, Grunt & Travis CI](http://futurefun.tumblr.com/post/89734448371/testing-angularjs-with-jasmine-karma-protractor)
 - Test Libraries
+  - [Cucumber JS](https://github.com/cucumber/cucumber-js)
+    - [Cucumber, this time with JavaScript!](http://cloudspace.com/blog/2014/11/25/cucumber/#.VaPgqhNViVs)
   - [Mocha](http://mochajs.org/)
     - [Testing React Web Apps with Mocha: Part 1](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
     - [Testing React Web Apps with Mocha: Part 2](http://www.hammerlab.org/2015/02/21/testing-react-web-apps-with-mocha-part-2/)
     - [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](http://webapplog.com/tdd/)
     - [Headless Functional Testing with Selenium and PhantomJS](http://code.tutsplus.com/tutorials/headless-functional-testing-with-selenium-and-phantomjs--net-30545) (Using Mocha and Chai)
+  - [Sinon.JS](http://sinonjs.org/) (Standalone test spies, stubs and mocks for JavaScript)
   - [Protractor](https://github.com/angular/protractor)
     - [Protractor - Testing Angular and Non Angular Sites](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
     - [Protractor for AngularJS slideshow](http://ramonvictor.github.io/protractor/slides/#/)
@@ -526,6 +536,7 @@ Testing
 - Reference
   - [Test Anything Protocol](http://en.wikipedia.org/wiki/Test_Anything_Protocol)
     - [Test Anything Protocol tools for node](https://github.com/isaacs/node-tap)
+  - [Testing JavaScript Modules with Tape](http://ponyfoo.com/articles/testing-javascript-modules-with-tape)
 - Test Runners
   - [Intern](https://theintern.github.io/)
   - [Karma](https://karma-runner.github.io)
@@ -560,6 +571,7 @@ Visual Regression Testing
   - [Visual Regression Tools: BackstopJS](http://shashikantjagtap.net/visual-regression-tools-backstopjs/)
 - CI Integration
   - [Visual regression testing in Travis CI](http://twolfson.com/2014-02-25-visual-regression-testing-in-travis-ci)
+  - [Galen Framework](http://galenframework.com/) (Automated testing of look and feel for your responsive websites)
 - Commercial Solutions
   - [Ghost Inspector](https://ghostinspector.com/)
   - [diff.io](https://diff.io/) (Difference as a Service)
