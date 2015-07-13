@@ -231,6 +231,7 @@ JavaScript
   - Modules
     - [Getting ES6 modules working thanks to Browserify, Babel, and Gulp](http://advantcomp.com/blog/ES6Modules/)
   - Reference
+    - [You Might Not Need Underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)
     - [Easing the Transition to ES6 - Dev vs Production](http://www.ifwe.co/code/posts/easing-the-transition-to-es6/)
     - [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
     - [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
@@ -313,6 +314,8 @@ JavaScript
   - [Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - Sweet.js
   - [Writing Your First Sweet.js Macro](http://jlongster.com/Writing-Your-First-Sweet.js-Macro)
+- [Layzr.js](http://callmecavs.github.io/layzr.js/) (A small, fast, modern, and dependency-free library for lazy loading)
+- [Low-Level JavaScript](http://kungfoo.bar/posts/low-level-javascript.html)
 
 
 Jobs
