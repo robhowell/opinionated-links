@@ -184,6 +184,16 @@ HTML
     - [jQuery RWD Image Maps](https://github.com/stowball/jQuery-rwdImageMaps)
 
 
+Interesting Articles
+---
+
+- [The boring front-end developer](http://adamsilver.io/articles/the-boring-front-end-developer/)
+- [The disadvantages of Single Page Applications](http://adamsilver.io/articles/the-disadvantages-of-single-page-applications/)
+- [The Boring Designer](http://blog.capwatkins.com/the-boring-designer)
+- [How to Become a Great JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
+- 
+
+
 iOS
 ---
 
@@ -427,6 +437,7 @@ Node.js
   - [What’s new in io.js 2.0.0](https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/)
   - [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
   - [Migrating from PHP to Node.js](https://medium.com/get-outside/migrating-from-php-to-node-js-522768ac482a)
+  - [Fundamental Node.js Design Patterns](http://blog.risingstack.com/fundamental-node-js-design-patterns/)
   - Forking NPM modules
     - [How to fork & patch npm modules](http://debuggable.com/posts/how-to-fork-patch-npm-modules:4e2eb9f3-e584-44be-b1a9-3db7cbdd56cb)
     - [Fork and patch npm modules hosted on GitHub](https://coderwall.com/p/q_gh-w/fork-and-patch-npm-moduels-hosted-on-github)
