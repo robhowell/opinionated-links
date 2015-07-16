@@ -97,6 +97,7 @@ Data Storage
 - Hosted data APIs
   - [Firebase](https://www.firebase.com/)
   - [Parse](https://www.parse.com/)
+    - [How to get free SSL for your Parse.com hosted app](http://blog.sam-thompson.info/how-to-get-free-ssl-for-your-parse-com-hosted-app/)
 
 
 Data Structures & Algorithms
