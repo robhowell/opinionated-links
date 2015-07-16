@@ -480,6 +480,7 @@ Programming Challenges / Ranking Websites
 - [Codility](http://www.codility.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Topcoder](http://www.topcoder.com/)
+- [ChallengePost](http://challengepost.com/)
 
 
 Prototyping 
