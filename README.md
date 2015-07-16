@@ -576,6 +576,7 @@ Tools
 - Placeholder Content
   - [Placehold.it](http://placehold.it/) (Basic graphic placeholder images)
   - [Lorempixel.com](http://lorempixel.com/) (Random placeholder photos)
+- [Toggle CSS Bookmarklet](https://github.com/Hurtak/toggle-css-bookmarklet)
 - [What's my Viewport Size?](http://viewportsizes.com/mine/)
 
 
