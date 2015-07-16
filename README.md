@@ -335,6 +335,8 @@ Jobs
   - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
   - [A Guide to the Front-End Interview Process](http://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews)
   - [Node.js Interview Questions and Answers](http://blog.risingstack.com/node-js-interview-questions/)
+- Job Listings
+  - [Job listings for front-end developers](https://github.com/sourceful/jobs)
 
 
 Learning
@@ -395,6 +397,9 @@ Misc
 - Google's proposal for JavaScript "Strong Mode"
   - [Experiments with Strengthening JavaScript](https://developers.google.com/v8/experiments)
   - [Strong Mode Proposal](https://docs.google.com/document/d/1Qk0qC4s_XNCLemj42FqfsRLp49nDQMZ1y7fwf5YjaI4/view)
+Unique Identification
+  - [Panopticlick: How Unique and Trackable Is Your Browser?](https://panopticlick.eff.org/)
+  - [Electronic Frontier Foundation: How Unique Is Your Web Browser?](https://panopticlick.eff.org/browser-uniqueness.pdf)
 
 Mobile
 ---
