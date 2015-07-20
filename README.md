@@ -306,6 +306,7 @@ JavaScript
   - React Styling
     - [Radium](http://projects.formidablelabs.com/radium/)
       - [Inline Styles are the Future](http://formidablelabs.com/blog/2015/03/01/launching-radium/)
+    - [Belle](http://nikgraf.github.io/belle/) (Configurable React Components with great UX)
   - [react.rocks](http://react.rocks)
   - React Native
     - [CSS-Layout and React-Art](http://browniefed.com/blog/2015/06/01/css-layout-and-react-art/)
