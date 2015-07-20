@@ -66,6 +66,21 @@ CSS
   - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
   - [CSS matches()](http://caniuse.com/#feat=matchesselector)
   - [Web standard/Microsoft viewport settings - IE10 Snap Mode and Responsive Design](http://timkadlec.com/2012/10/ie10-snap-mode-and-responsive-design/)
+  - [Fix 'jumping scrollbar' issue using only CSS](https://aykevl.nl/2014/09/fix-jumping-scrollbar)
+- Pointer Events
+  - [Pointer Events on MDN](https://developer.mozilla.org/en/docs/Web/CSS/pointer-events)
+  - [Pointer Events Polyfill](https://github.com/jquery/PEP)
+  - [Pointer Events W3C Recommendation, Interoperable Touch, and Removing the Dreaded 300ms Tap Delay](http://blogs.msdn.com/b/ie/archive/2015/02/24/pointer-events-w3c-recommendation-interoperable-touch-and-removing-the-dreaded-300ms-tap-delay.aspx)
+- CSS Namespacing and Semantic Naming
+  - [More Transparent UI Code with Namespaces](http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+  - [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+  - [BEM](https://en.bem.info/)
+    - [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [SUIT CSS](http://suitcss.github.io/)
+  - [SUIT CSS on GitHub](https://github.com/suitcss/suit)
+- Styling Select boxes
+  - [How To Hide The Select Arrow On Firefox](https://gist.github.com/joaocunha/6273016)
+  - [Custom <select> drop downs with CSS3](http://lea.verou.me/2011/03/custom-select-drop-downs-with-css3/)
 - Transpilers
   - [postcss](https://github.com/postcss/postcss)
     - [cssnext](https://github.com/cssnext/cssnext)
