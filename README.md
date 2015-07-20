@@ -79,8 +79,11 @@ CSS
 - [SUIT CSS](http://suitcss.github.io/)
   - [SUIT CSS on GitHub](https://github.com/suitcss/suit)
 - Styling Select boxes
+  - [Using CSS to style those notoriously tricky form elements: checkboxes and select dropdowns](https://andywalpole.me/#!/blog/141056/using-css-style-notoriously-tricky-form-elements-checkboxes-select-dropdowns)
   - [How To Hide The Select Arrow On Firefox](https://gist.github.com/joaocunha/6273016)
   - [Custom <select> drop downs with CSS3](http://lea.verou.me/2011/03/custom-select-drop-downs-with-css3/)
+  - [Dropdown Default Styling](https://css-tricks.com/dropdown-default-styling/)
+  - [Style a Select Box Using Only CSS](http://bavotasan.com/2011/style-select-box-using-only-css/)
 - Transpilers
   - [postcss](https://github.com/postcss/postcss)
     - [cssnext](https://github.com/cssnext/cssnext)
@@ -230,6 +233,8 @@ JavaScript
 - About JavaScript
   - [Why JavaScript Is The Next (or first) Programming Language You Should Learn](http://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/)
   - [7 Essential JavaScript Functions](http://davidwalsh.name/essential-javascript-functions)
+- Async
+  - [Promise Patterns & Anti-Patterns](http://www.datchley.name/promise-patterns-anti-patterns/)
 - Backbone
   - [Composition - not inheritance - in Backbone](http://danhough.com/blog/backbone-composition/)
 - Build Tools
@@ -261,6 +266,7 @@ JavaScript
     - [You Might Not Need Underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)
     - [Easing the Transition to ES6 - Dev vs Production](http://www.ifwe.co/code/posts/easing-the-transition-to-es6/)
     - [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
+    - [Traits with ES7 Decorators](http://cocktailjs.github.io/blog/traits-with-es7-decorators.html)
     - [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
     - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
     - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
@@ -346,7 +352,7 @@ JavaScript
 - [Low-Level JavaScript](http://kungfoo.bar/posts/low-level-javascript.html)
 
 
-Jobs
+Jobs / Career Development
 ---
 
 - Interviews
@@ -355,7 +361,9 @@ Jobs
   - [Node.js Interview Questions and Answers](http://blog.risingstack.com/node-js-interview-questions/)
 - Job Listings
   - [Job listings for front-end developers](https://github.com/sourceful/jobs)
-
+- Learning
+  - [How to Stay Up-to-Date as a Web Developer](http://www.thomasmaximini.com/2015/07/15/how-to-stay-up-to-date-as-a-web-developer.html)
+  - [Web development articles and projects of interest - Spring 2015](https://andywalpole.me/#!/blog/142687/web-development-articles-projects-interest--spring-2015)
 
 Learning
 ---
@@ -418,6 +426,12 @@ Misc
 Unique Identification
   - [Panopticlick: How Unique and Trackable Is Your Browser?](https://panopticlick.eff.org/)
   - [Electronic Frontier Foundation: How Unique Is Your Web Browser?](https://panopticlick.eff.org/browser-uniqueness.pdf)
+- [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
+- Indoor Location
+  - [Why We Think Indoor Positioning is Going to be Huge](http://www.sequence.co.uk/blog/indoor-positioning/)
+    - iBeacons
+      - [iBeacons – our experience in the Hidden Museum app](http://www.labs.bristolmuseums.org.uk/ibeacons-our-experience-in-the-hidden-museum-app/)
+
 
 Mobile
 ---
