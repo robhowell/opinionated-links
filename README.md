@@ -361,6 +361,7 @@ Jobs / Career Development
   - [Node.js Interview Questions and Answers](http://blog.risingstack.com/node-js-interview-questions/)
 - Job Listings
   - [Job listings for front-end developers](https://github.com/sourceful/jobs)
+  - [Upwork](https://www.upwork.com)
 - Learning
   - [How to Stay Up-to-Date as a Web Developer](http://www.thomasmaximini.com/2015/07/15/how-to-stay-up-to-date-as-a-web-developer.html)
   - [Web development articles and projects of interest - Spring 2015](https://andywalpole.me/#!/blog/142687/web-development-articles-projects-interest--spring-2015)
@@ -609,6 +610,8 @@ Tools
   - [Lorempixel.com](http://lorempixel.com/) (Random placeholder photos)
 - [Toggle CSS Bookmarklet](https://github.com/Hurtak/toggle-css-bookmarklet)
 - [What's my Viewport Size?](http://viewportsizes.com/mine/)
+- [Device Pixel Density Tests](https://bjango.com/articles/min-device-pixel-ratio/)
+- [Piwak: Open Analytics Platform](http://piwik.org)
 
 
 Typography
