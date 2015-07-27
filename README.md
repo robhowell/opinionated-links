@@ -362,6 +362,7 @@ Jobs / Career Development
 - Job Listings
   - [Job listings for front-end developers](https://github.com/sourceful/jobs)
   - [Upwork](https://www.upwork.com)
+  - [Gigster](https://www.trygigster.com/)
 - Learning
   - [How to Stay Up-to-Date as a Web Developer](http://www.thomasmaximini.com/2015/07/15/how-to-stay-up-to-date-as-a-web-developer.html)
   - [Web development articles and projects of interest - Spring 2015](https://andywalpole.me/#!/blog/142687/web-development-articles-projects-interest--spring-2015)
