@@ -249,6 +249,8 @@ JavaScript
     - [Webpack, ES6, cssnext yeoman generator](http://ilkka.io/blog/generator-webpack-es6-cssnext/)
   - [Methods Within Constructor vs Prototype in Javascript](http://thecodeship.com/web-development/methods-within-constructor-vs-prototype-in-javascript/)
   - [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
+- Charts
+  - [plotly.js: the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
 - Code Coverage
   - [BlanketJS](http://blanketjs.org/)
   - [Isparta](https://github.com/douglasduteil/isparta) (Code coverage tool for ES6 using Babel)
