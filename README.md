@@ -210,7 +210,13 @@ Interesting Articles
 - [The disadvantages of Single Page Applications](http://adamsilver.io/articles/the-disadvantages-of-single-page-applications/)
 - [The Boring Designer](http://blog.capwatkins.com/the-boring-designer)
 - [How to Become a Great JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
-- 
+
+
+Internationalisation
+---
+
+- Time
+  - [Why You Should Use Timezone Offsets Not Timezone Names](http://tantek.com/2015/218/b1/use-timezone-offsets)
 
 
 iOS
