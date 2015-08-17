@@ -740,3 +740,11 @@ Literate Programming
 
 Universal JavaScript
 - [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
+
+Performance
+- [Fixing Performance in the Web Stack](http://ponyfoo.com/articles/fixing-web-performance)
+
+JavaScript
+- Modularity
+  - [Why I Write Plain JavaScript Modules](http://ponyfoo.com/articles/why-i-write-plain-javascript-modules)
+  
