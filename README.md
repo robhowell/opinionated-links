@@ -81,7 +81,7 @@ CSS
 - Styling Select boxes
   - [Using CSS to style those notoriously tricky form elements: checkboxes and select dropdowns](https://andywalpole.me/#!/blog/141056/using-css-style-notoriously-tricky-form-elements-checkboxes-select-dropdowns)
   - [How To Hide The Select Arrow On Firefox](https://gist.github.com/joaocunha/6273016)
-  - [Custom <select> drop downs with CSS3](http://lea.verou.me/2011/03/custom-select-drop-downs-with-css3/)
+  - [Custom select drop downs with CSS3](http://lea.verou.me/2011/03/custom-select-drop-downs-with-css3/)
   - [Dropdown Default Styling](https://css-tricks.com/dropdown-default-styling/)
   - [Style a Select Box Using Only CSS](http://bavotasan.com/2011/style-select-box-using-only-css/)
 - Transpilers
