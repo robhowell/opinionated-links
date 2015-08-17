@@ -317,6 +317,7 @@ JavaScript
   - [setImmediate.js](https://github.com/YuzuJS/setImmediate) (Allow cross-browser access to the environment's task queue)
   - [Awesomplete](https://leaverou.github.io/awesomplete/) (Cross-browser autocomplete)
 - [React](http://facebook.github.io/react/index.html)
+  - [Structuring React Applications: Higher-Order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
   - React Styling
     - [Radium](http://projects.formidablelabs.com/radium/)
       - [Inline Styles are the Future](http://formidablelabs.com/blog/2015/03/01/launching-radium/)
@@ -699,3 +700,29 @@ Wordpress
 
 - [PrettyPress Markdown editor](http://pro.evasivesoftware.com)
 - [Setting up WordPress on HHVM on Digital Ocean](https://richardtape.com/2015/02/14/setting-wordpress-hhvm-digital-ocean/)
+
+
+Links to sort:
+
+Testing:
+- [Wallaby.js](http://wallabyjs.com/) (Real-time IDE-integrated test runner - look at again in Oct 2015 to check if they have added Atom support)
+
+Docker
+- [Dusty](http://dusty.gc.com/) (Docker-powered Development Environments)
+
+Relay
+- [Relay](https://facebook.github.io/relay/)
+
+Code Coverage
+- [Blanket.js](http://blanketjs.org/)
+- [Instanbul](https://gotwarlost.github.io/istanbul/)
+
+Cross-browser testing
+- [Official Virtual Machines for testing IE6-IE11 from Microsoft](http://dev.modern.ie/tools/vms/windows/)
+- JavaScript support
+  - [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
+  - [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
+
+ES6
+- [ES6 Katas](http://es6katas.org/)
+- [ES6 Feature Test library](ES Feature Tests)
