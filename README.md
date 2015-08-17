@@ -756,3 +756,15 @@ Polyfills & Shims
 - [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 - [Respond.js](https://github.com/scottjehl/Respond)
 - [AutoPrefixer](https://github.com/postcss/autoprefixer)
+- [Placeholders.js](http://jamesallardice.github.io/Placeholders.js/)
+
+Unsorted
+- [HTML5 input type=number and decimals/floats in Chrome](https://blog.isotoma.com/2012/03/html5-input-typenumber-and-decimalsfloats-in-chrome/)
+- [FormValidation.io](http://formvalidation.io/) - jQuery form validation plugin
+- [Input Type Sandbox](http://inputtypes.com/)
+- [Font Size Idea: px at the Root, rem for Components, em for Text Elements](https://css-tricks.com/rems-ems/)
+- [Simplify Your Stylesheets With The Magical CSS Viewport Units](http://tutorialzine.com/2015/05/simplify-your-stylesheets-with-the-magical-css-viewport-units/)
+- [Object Oriented CSS](https://github.com/stubbornella/oocss/wiki)
+  - [OOCSS Code Standards](https://github.com/stubbornella/oocss-code-standards)
+  - [OOCSS Accessibility Guidelines](https://github.com/stubbornella/oocss-accessibility-guidelines)
+  - [Using Object-Oriented CSS with Sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
