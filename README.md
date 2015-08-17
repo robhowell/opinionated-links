@@ -706,6 +706,8 @@ Links to sort:
 
 Testing:
 - [Wallaby.js](http://wallabyjs.com/) (Real-time IDE-integrated test runner - look at again in Oct 2015 to check if they have added Atom support)
+- [Dream of Browser Test Automation?](http://ponyfoo.com/articles/browser-test-automation-dreams)
+- [Test Anything Protocol (TAP)](https://testanything.org/)
 
 Docker
 - [Dusty](http://dusty.gc.com/) (Docker-powered Development Environments)
@@ -722,7 +724,19 @@ Cross-browser testing
 - JavaScript support
   - [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
   - [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
+- [Amok](http://amokjs.com/) (Cross platform live script debugging & editing)
+- [Heartbeat.js](https://github.com/SoundBot/heartbeat.js) (Sends console events to user-defined URL)
 
 ES6
 - [ES6 Katas](http://es6katas.org/)
 - [ES6 Feature Test library](ES Feature Tests)
+
+Offline Web browsing
+- Using Service workers
+  - [UpUp](https://www.talater.com/upup/) (Small script to allow offline Web browing)
+
+Literate Programming
+- [Why did literate programming not catch on?](https://news.ycombinator.com/item?id=10069748)
+
+Universal JavaScript
+- [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
