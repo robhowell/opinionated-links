@@ -702,7 +702,8 @@ Wordpress
 - [Setting up WordPress on HHVM on Digital Ocean](https://richardtape.com/2015/02/14/setting-wordpress-hhvm-digital-ocean/)
 
 
-Links to sort:
+Links to sort
+---
 
 Testing:
 - [Wallaby.js](http://wallabyjs.com/) (Real-time IDE-integrated test runner - look at again in Oct 2015 to check if they have added Atom support)
@@ -747,4 +748,7 @@ Performance
 JavaScript
 - Modularity
   - [Why I Write Plain JavaScript Modules](http://ponyfoo.com/articles/why-i-write-plain-javascript-modules)
-  
+
+Forum/discussion
+- [Discourse](https://github.com/discourse/discourse) (Open source discussion platform)
+
