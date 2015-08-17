@@ -752,3 +752,7 @@ JavaScript
 Forum/discussion
 - [Discourse](https://github.com/discourse/discourse) (Open source discussion platform)
 
+Polyfills & Shims
+- [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+- [Respond.js](https://github.com/scottjehl/Respond)
+- [AutoPrefixer](https://github.com/postcss/autoprefixer)
