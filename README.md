@@ -774,3 +774,29 @@ Unsorted
 Tools
 - Email formatting
   - [Inliner: CSS inlining tool by Campaign Monitor](http://inliner.cm/)
+
+React links
+- [React Components](http://react-components.com/)
+- [React.parts](https://react.parts/web)
+- [Reactjsx.com](http://www.reactjsx.com/)
+- ES6
+  - [Using ES6 Modules with Webpack](Using ES6 Modules with Webpack)
+  - [Writing client-side ES6 with webpack](http://www.2ality.com/2015/04/webpack-es6.html)
+
+- Rich text editor components
+  - Rich text
+    - [Quill](https://github.com/quilljs/quill)
+      - [React Quill](https://github.com/zenoamaro/react-quill)
+    - [Scribe](https://github.com/guardian/scribe)
+    - [React-Wysiwyg](https://github.com/bmcmahen/react-wysiwyg)
+  - Markdown
+    - [Remarkable](https://github.com/jonschlinkert/remarkable)
+  - Block-based editing
+    - [Sir Trevor](https://github.com/madebymany/sir-trevor-js)
+      - [Custom blocks](https://github.com/madebymany/sir-trevor-js/wiki/Custom-blocks)
+    - [Makona](https://github.com/johnthethird/makona-editor)
+      - [Makona Editor homepage](http://johnthethird.github.io/makona-editor/)
+
+Receiving email in Node
+- [Mailin](http://mailin.io/)
+- [Haraka](https://haraka.github.io/)
